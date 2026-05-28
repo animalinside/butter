@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://king-prawn-app-3-awsmp.ondigitalocean.app/", weight: 0.5 },
-        { url: "https://king-prawn-app-3-awsmp.ondigitalocean.app/", weight: 0.5 }
+        { url: "https://king-prawn-app-2-cqhng.ondigitalocean.app/", weight: 0.5 },
+        { url: "https://king-prawn-app-2-cqhng.ondigitalocean.app/", weight: 0.5 }
       
     ];
 
